@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew bootRun",
+    "working_directory": "/home/kavia/workspace/code-generation/azure-iot-device-management-and-telemetry-3163-3172/device_registration_and_telemetry_backend"
+}
